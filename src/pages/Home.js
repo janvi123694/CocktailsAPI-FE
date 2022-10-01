@@ -9,7 +9,7 @@ const Home = () => {
           <SearchForm />
           <CocktailList />
       </div>
-  );
+  )
 }
 
 export default Home
